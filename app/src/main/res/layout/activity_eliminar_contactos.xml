@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/filtros"
+    android:orientation="vertical" >
+
+    <TextView android:text="@string/advertencia" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="67dp"
+        android:id="@+id/textView" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/aceptar"
+        android:id="@+id/btnEliminarContactos"
+        android:layout_marginBottom="118dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/rojo"
+        android:layout_alignRight="@+id/textView"
+        android:layout_alignEnd="@+id/textView"
+        android:layout_alignLeft="@+id/textView"
+        android:layout_alignStart="@+id/textView"
+        android:onClick="onClickBorrar"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onRegresar"
+        android:text="@string/lblBtn4"
+        android:id="@+id/button2"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/btnEliminarContactos"
+        android:layout_alignStart="@+id/btnEliminarContactos"
+        android:layout_marginBottom="44dp"
+        android:layout_alignRight="@+id/btnEliminarContactos"
+        android:layout_alignEnd="@+id/btnEliminarContactos" />
+
+</RelativeLayout>

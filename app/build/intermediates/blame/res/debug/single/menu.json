@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\AndresAlejandro\\AndroidStudioProjects\\LibretaContactos\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\AndresAlejandro\\AndroidStudioProjects\\LibretaContactos\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\AndresAlejandro\\AndroidStudioProjects\\LibretaContactos\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_eliminar_contactos.xml",
+        "source": "C:\\Users\\AndresAlejandro\\AndroidStudioProjects\\LibretaContactos\\app\\src\\main\\res\\menu\\menu_eliminar_contactos.xml"
+    }
+]

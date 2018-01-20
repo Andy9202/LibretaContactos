@@ -1,0 +1,7 @@
+#Thu Jan 18 20:48:44 COT 2018
+base.0=C\:\\Users\\AndresAlejandro\\AndroidStudioProjects\\LibretaContactos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_7cb288bdc67609b9472c1ab69982e6abfe7b5ec9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\AndresAlejandro\\AndroidStudioProjects\\LibretaContactos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_99c4ac6f8bd115930cc73f4d59452e3d7ded39d7\\classes.dex
+base.1=C\:\\Users\\AndresAlejandro\\AndroidStudioProjects\\LibretaContactos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_99c4ac6f8bd115930cc73f4d59452e3d7ded39d7
+file.0=C\:\\Users\\AndresAlejandro\\AndroidStudioProjects\\LibretaContactos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_7cb288bdc67609b9472c1ab69982e6abfe7b5ec9\\classes.dex
